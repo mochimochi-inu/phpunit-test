@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="MyTestCase" file="/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php" tests="6" assertions="6" failures="1" errors="0" time="0.005596">
+    <testcase name="test_add" class="MyTestCase" file="/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php" line="17" assertions="1" time="0.004818">
+      <failure type="PHPUnit_Framework_ExpectationFailedException">MyTestCase::test_add
+Failed asserting that 9 matches expected 8.
+
+/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php:19
+</failure>
+    </testcase>
+    <testcase name="test_sub" class="MyTestCase" file="/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php" line="22" assertions="1" time="0.000222"/>
+    <testcase name="test_mul" class="MyTestCase" file="/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php" line="27" assertions="1" time="0.000150"/>
+    <testcase name="test_div" class="MyTestCase" file="/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php" line="32" assertions="1" time="0.000145"/>
+    <testcase name="test_square" class="MyTestCase" file="/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php" line="37" assertions="1" time="0.000151"/>
+    <testcase name="test_cube" class="MyTestCase" file="/Users/chiro/go/src/github.com/mochimochi-inu/phpunit-test/culc/test_example2-2-2.php" line="41" assertions="1" time="0.000110"/>
+  </testsuite>
+</testsuites>
